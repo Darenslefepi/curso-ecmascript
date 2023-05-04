@@ -1,0 +1,4 @@
+#archivos ignorados
+
+.vscode/
+package.json
